@@ -1,0 +1,43 @@
+html{
+    font-family: 'Lato','sans-serif';
+    font-family: 'Oswald','sans-serif';
+    padding: 0;
+    margin: 0;
+    background-color: rgb(236, 241, 241);
+}
+
+body .minav{
+    background-color: lightpink;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+}
+
+h1{
+    color: rgb(112, 92, 221);
+}
+
+p.wiki_soya{
+    color: rgb(153, 83, 26);
+    display: flex;
+    flex-direction: row;
+    -webkit-flex-direction: row;
+}
+
+section .contenedor_uno {
+    background: steelblue;
+    display: flex;
+    flex-direction: row;
+    -webkit-flex-direction: row;
+}
+section p {
+    color: rgb(153, 83, 26);
+}
+h3 {
+    color: royalblue;
+}
+section .contenedor_uno  img .soya_logo{
+   background-color: rosybrown;
+   width: 7rem;
+}
+
